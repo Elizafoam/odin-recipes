@@ -1,0 +1,12 @@
+body{
+    font-family: "Copperplate", "Papyrus", fantasy;
+}
+
+#desc {
+    background-color: rgb(61, 61, 61);
+    color: white;
+}
+
+.recipe {
+    background-color: rgb(218, 218, 87);
+}
